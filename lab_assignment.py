@@ -40,10 +40,10 @@ def main():
 
     while True:
         print("\nOptions:")
-        print("01. Sort by P_ID")
-        print("02. Sort by Start Time")
-        print("03. Sort by Priority")
-        print("04. Quit")
+        print("1. Sort by P_ID")
+        print("2. Sort by Start Time")
+        print("3. Sort by Priority")
+        print("4. Quit")
         choice = input("Enter your choice: ")
 
         if choice == '1':
